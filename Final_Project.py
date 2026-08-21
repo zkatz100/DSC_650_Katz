@@ -80,3 +80,5 @@ table.put(1,{
 })
 
 print("Metrics written to HBase.")
+
+spark.stop()
